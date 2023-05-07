@@ -1,4 +1,4 @@
-# Has Target Sum Lab
+# Has Target Sum Lab c
 
 ## Learning Goals
 
